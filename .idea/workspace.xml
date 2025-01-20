@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d935d006-6aa6-4fb6-b808-317957bd2c17" name="Changes" comment="" />
+    <list default="true" id="d935d006-6aa6-4fb6-b808-317957bd2c17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/labs/s3/DefiningMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/labs/s3/DefiningMethods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +55,8 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20250120_0001",
-    "git-widget-placeholder": "Declaring-Member-Variables",
+    "com.google.cloudcode.ide_session_index": "20250120_0002",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/OneDrive/Videos/Java/Github/DefiningMethods",
